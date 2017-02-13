@@ -12,6 +12,6 @@
 <image id="level_4_a_batteringram" collection="Unit_Atlas_1" spriteName="7m_Siege" />
 <image id="level_4_m_batteringram" collection="Unit_Atlas_1" spriteName="7m_Siege" />
 <image id="level_4_ne_batteringram" collection="Unit_Atlas_1" spriteName="7m_Siege" />
-<image id="level_6_a_batteringram" collection="Unit_Atlas_3" spriteName="8m_Siege" />
+<image id="level_5_a_batteringram" collection="Unit_Atlas_3" spriteName="8m_Siege" />
 <image id="level_5_m_batteringram" collection="Unit_Atlas_3" spriteName="8m_Siege" />
-<image id="level_4_ne_batteringram" collection="Unit_Atlas_3" spriteName="8m_Siege" />
+<image id="level_5_ne_batteringram" collection="Unit_Atlas_3" spriteName="8m_Siege" /
