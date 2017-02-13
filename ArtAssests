@@ -1,2 +1,17 @@
-这个美术资源  除了美术不可以相关人员  其他人员勿做修改
-解决差异
+// 配置每一级兵种在训练营对应UI展示图集及spriteName  
+<!--batteringram-->
+<image id="level_1_a_batteringram" collection="Unit_Atlas_2" spriteName="4m_Siege" />
+<image id="level_1_m_batteringram" collection="Unit_Atlas_2" spriteName="4m_Siege" />
+<image id="level_1_ne_batteringram" collection="Unit_Atlas_2" spriteName="4m_Siege" />
+<image id="level_2_a_batteringram" collection="Unit_Atlas_2" spriteName="5m_Siege" />
+<image id="level_2_m_batteringram" collection="Unit_Atlas_2" spriteName="5m_Siege" />
+<image id="level_2_ne_batteringram" collection="Unit_Atlas_2" spriteName="5m_Siege" />
+<image id="level_3_a_batteringram" collection="Unit_Atlas_1" spriteName="6m_Siege" />
+<image id="level_3_m_batteringram" collection="Unit_Atlas_1" spriteName="6m_Siege" />
+<image id="level_3_ne_batteringram" collection="Unit_Atlas_1" spriteName="6m_Siege" />
+<image id="level_4_a_batteringram" collection="Unit_Atlas_1" spriteName="7m_Siege" />
+<image id="level_4_m_batteringram" collection="Unit_Atlas_1" spriteName="7m_Siege" />
+<image id="level_4_ne_batteringram" collection="Unit_Atlas_1" spriteName="7m_Siege" />
+<image id="level_5_a_batteringram" collection="Unit_Atlas_3" spriteName="8m_Siege" />
+<image id="level_5_m_batteringram" collection="Unit_Atlas_3" spriteName="8m_Siege" />
+<image id="level_5_ne_batteringram" collection="Unit_Atlas_3" spriteName="8m_Siege" /
